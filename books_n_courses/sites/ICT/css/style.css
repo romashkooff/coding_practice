@@ -1,0 +1,238 @@
+@charset: "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	outline: none; /* Обводка полей (input) */
+}
+
+html {height: 100%}
+
+body {
+	width: 100%;
+	height: 100%;
+	color: #333;
+	background: #f7f7f7;
+	font-size: 1em;
+	font-family: "Segoe UI", sans-serif;
+	line-height: 135%;
+}
+
+/* Ссылки */
+
+/* Правила для всех ссылок */
+ a {
+	color: #f48b8b;
+	text-decoration: none;
+	transition: all.6s easy;
+	-moz-transition: all.6s easy; /* Мозилла */
+	-webkit-transition: all.6s easy; /* Сафари */
+}
+
+/* Правила при наведении */
+a:hover {
+	color: #8b9ff5;
+	text-decoration: none;
+	transition: all.6s easy;
+	-moz-transition: all.6s easy; /* Мозилла */
+	-webkit-transition: all.6s easy; /* Сафари */
+}
+
+/* Правила при нажатии */
+a:active {
+	color:#8ce4a6;
+}
+
+/* Правила для картинок */
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9;
+}
+
+/* Правила для горизонтальных линий */
+
+hr {
+	display:block;
+	border: 0px;
+	height: 1px;
+	border-top: 1px solid #ccc;
+	padding: 0px;
+}
+
+/* Блок для выделений(selection block) */
+
+::selection {background: #f58b8b; color: #fff}
+::-moz-selection {background: #f58b8b; color: #fff}
+::-webkit-selection {background: #f58b8b; color: #fff}
+
+#page-wrap:after {
+	content: "";
+	display: block;
+}
+
+footer, #page-wrap:after {height: 10px}
+
+#page-wrap {
+	min-height: 94%;
+	margin-bottom: -10px;
+}
+
+header, footer {
+	width: 98%;
+	background-color: #fff;
+	float: left;
+}
+
+/* Стили для шапки */
+
+header {
+	border-bottom: 2px solid silver;
+	padding: 1%;
+}
+
+#logo {
+	font-size: 2em;
+	font-family: Comic Sans MS, sans-serif;
+	color: silver;
+}
+
+.contact {
+	font-size: 1.5em;
+	font-family: Comic Sans MS, sans-serif;
+	margin-left: 20px;
+}
+
+.clear {clear: both;}
+.right {float: right;}
+.left {float: left;}
+
+/* Меню сайта */
+
+#menu {
+	color: #666;
+	font-family: Comic Sans MS, sans-serif;
+	font-size: 1.7em;
+}
+
+#menu hr {
+	width: 500px;
+	max-width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#menuHrefs a {
+	padding: 3px 10px;
+	border-radius: 5px;
+	margin-right: 5px;
+	color: #626262
+}
+
+#menuHrefs a:hover {
+	background-color: #ececec;
+}
+
+/* Правила стилей для статей */
+
+#wrapper {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#wrapper #articles {
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+}
+
+#wrapper #articles article {
+	float: left;
+	width: 31.33333%;
+	border: 1px solid silver;
+	box-sizing: border-box;
+	border-radius: 5 px;
+	background-color: #fafafa;
+	margin-right: 2%;
+	min-height: 400px;
+}
+
+#wrapper #articles article img {
+	width: 100%;
+	height: 200px;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 1px solid silver;
+	margin-bottom: 10px;
+}
+
+#wrapper #articles article h2 {
+	width: 90%;
+	margin-left: 5%;
+	font-weight: normal;
+	font-size: 1.7em;
+	color: #4a4a4a;
+}
+
+#wrapper #articles article p {
+	width: 80%;
+	margin-left: 10%;
+	text-indent: 1em;
+}
+
+#wrapper #articles article a {
+	padding: 3px;
+	background-color: #ed7b7b;
+	margin-left: 5%;
+	border-radius: 5px;
+	color: #fff;
+	margin-top: 10px;
+	float: left;
+	margin-bottom: 10px;
+}
+
+#wrapper #articles article a:hover {background-color: #7feb6d;}
+
+/* Центральный блок сайта */
+
+#main_soc_block {
+	width: 100%;
+	padding: 2% 0;
+	border-bottom: 2px solid silver;
+	border-top: 2px solid silver;
+	margin: 20px 0;
+	float: left;
+}
+
+#main_soc_block_in {
+	text-align: center;
+	padding: 1%;
+	height: 100px;
+	background-color: #fafafa;
+	border: 1px solid silver;
+	border-radius: 7px;
+	width: 500px;
+}
+
+#main_soc_block_in a {
+	float: center;
+	padding: 2px 5px;
+	background-color: #e9af32;
+	border-radius: 6px;
+	color: #fff;
+	margin-top: 50%;
+}
+
+/* Стили для низа сайта */
+
+footer {
+	border-top: 2px solid silver;
+	margin-top: 10px;
+	padding: 1%;
+	padding-bottom: 2%;
+}
+
+footer img {
+	width: 3%;
+	float: left;
+	margin-right: 5px;
+}

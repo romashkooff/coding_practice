@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* ------------ header ------------ */
+
+header {
+	background: linear-gradient(#9595b6, #5a567f);
+}
+
+#header-fixed {
+	position: fixed;
+	right: 0;
+	left: 0;
+}
+
+.container {
+	top: 0;
+	padding: 0px;
+	margin:  0px auto;
+	max-width: 720px;;
+}
+
+.navbar-header {
+	float: left;
+	height: 126px;
+}
+
+.navbar-header a {
+	padding: 0;
+}
+
+.navbar-header a img{
+	height: 126px;
+}
+
+#navbar ul {
+	list-style: none;
+	text-align: center;
+
+	margin: 0px;
+	padding: 20px 10px 20px 10px;
+	height: 100%;
+	width: 100%;
+}
+
+#navbar li {
+	display: inline-block;
+	padding: 10px 40px;
+
+	/*background: rgb(243,99,255);*/
+	font-size: 20px;
+	text-decoration: none;
+	font-family: monospace;
+}
+
+/* ------------ header-end ------------ */
+
+/* ------------ body ------------ */
+
+.content {
+	padding-top: 100px;
+	display: block;
+	min-height: calc(100vh - 190px);
+
+	text-align: center;
+	font-size: 60px;
+	color: red;
+	font-family: fantasy;
+}
+
+.text1 {
+	padding-top: 250px;
+}
+
+.content-one {
+	padding-top: 150px;
+}
+
+.content-two {
+	padding-top: 250px;
+}
+
+/* ------------ body-end ------------ */
+
+/* ------------ footer ------------ */
+
+.footer-content {
+	font-size: 15px;
+	text-align: center;
+}
+
+#footer-fixed {
+	position: absolute;
+
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/* ------------ footer-end ------------ */
