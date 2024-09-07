@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\cv3\cv3\Program.cpp(34): warning C4715: factorial: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  cv3.vcxproj -> C:\Users\Alex\Desktop\ZPRO\cv3\x64\Debug\cv3.exe

@@ -1,0 +1,7 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\Ukaz1\Ukaz1\Program.cpp(11,22): warning C4566: Znak, který reprezentuje universal-character-name \u00E1, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\Ukaz1\Ukaz1\Program.cpp(26,11): warning C4566: Znak, který reprezentuje universal-character-name \u010D, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\Ukaz1\Ukaz1\Program.cpp(30,11): warning C4566: Znak, který reprezentuje universal-character-name \u00E1, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\Ukaz1\Ukaz1\Program.cpp(32,10): warning C4566: Znak, který reprezentuje universal-character-name \u00E1, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\Ukaz1\Ukaz1\Program.cpp(32,10): warning C4566: Znak, který reprezentuje universal-character-name \u0161, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+  Ukaz1.vcxproj -> C:\Users\Alex\Desktop\ZPRO\Ukaz1\x64\Debug\Ukaz1.exe

@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(702,5): error MSB6006: Příkaz CL.exe byl ukončen s kódem 2.
+C:\Users\Alex\Desktop\ZPRO\Cv_11\Cv_11\Program.cpp(15,9): error C2440: =: nejde převést z: int * na: float *.
+C:\Users\Alex\Desktop\ZPRO\Cv_11\Cv_11\Program.cpp(15,7): message : Typy, na které se ukazuje, spolu nesouvisejí; převod vyžaduje přetypování reinterpret_cast, C-style nebo function-style v závorkách.

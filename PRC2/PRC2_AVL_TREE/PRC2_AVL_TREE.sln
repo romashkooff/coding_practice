@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PRC2_AVL_TREE", "PRC2_AVL_TREE\PRC2_AVL_TREE.vcxproj", "{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Debug|x64.ActiveCfg = Debug|x64
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Debug|x64.Build.0 = Debug|x64
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Debug|x86.Build.0 = Debug|Win32
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Release|x64.ActiveCfg = Release|x64
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Release|x64.Build.0 = Release|x64
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Release|x86.ActiveCfg = Release|Win32
+		{BEE27A48-676B-41CD-9D76-6A8EB5F3F10F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF02B2F-D804-433F-85C1-EA411DE56C5D}
+	EndGlobalSection
+EndGlobal

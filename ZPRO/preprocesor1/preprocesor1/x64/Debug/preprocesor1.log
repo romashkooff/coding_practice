@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\preprocesor1\preprocesor1\Program.cpp(17,5): warning C4067: Po direktivě preprocesoru byly neočekávané tokeny – očekával se nový řádek.
+C:\Users\Alex\Desktop\ZPRO\preprocesor1\preprocesor1\Program.cpp(22,7): warning C4067: Po direktivě preprocesoru byly neočekávané tokeny – očekával se nový řádek.
+  preprocesor1.vcxproj -> C:\Users\Alex\Desktop\ZPRO\preprocesor1\x64\Debug\preprocesor1.exe

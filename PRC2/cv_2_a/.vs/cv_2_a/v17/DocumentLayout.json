@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CF1396-7A36-406B-AF9A-7E0DA12EECB6}|cv_2_a\\cv_2_a.vcxproj|C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0CF1396-7A36-406B-AF9A-7E0DA12EECB6}|cv_2_a\\cv_2_a.vcxproj|solutionrelative:cv_2_a\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CF1396-7A36-406B-AF9A-7E0DA12EECB6}|cv_2_a\\cv_2_a.vcxproj|C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\soubory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0CF1396-7A36-406B-AF9A-7E0DA12EECB6}|cv_2_a\\cv_2_a.vcxproj|solutionrelative:cv_2_a\\soubory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "soubory.cpp",
+              "DocumentMoniker": "C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\soubory.cpp",
+              "RelativeDocumentMoniker": "cv_2_a\\soubory.cpp",
+              "ToolTip": "C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\soubory.cpp",
+              "RelativeToolTip": "cv_2_a\\soubory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T09:10:05.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\main.cpp",
+              "RelativeDocumentMoniker": "cv_2_a\\main.cpp",
+              "ToolTip": "C:\\Users\\romas\\Desktop\\Coding\\University\\C\u002B\u002B\\PRC2\\cv_2_a\\cv_2_a\\main.cpp",
+              "RelativeToolTip": "cv_2_a\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T09:05:45.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

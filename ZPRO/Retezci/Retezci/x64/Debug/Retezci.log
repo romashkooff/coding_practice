@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\Retezci\Retezci\Program.cpp(76,22): warning C4101: f2: neodkazovaná lokální proměnná
+C:\Users\Alex\Desktop\ZPRO\Retezci\Retezci\Program.cpp(76,14): warning C4101: f1: neodkazovaná lokální proměnná
+  Retezci.vcxproj -> C:\Users\Alex\Desktop\ZPRO\Retezci\x64\Debug\Retezci.exe

@@ -1,0 +1,6 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\cv4\cv4\Program.cpp(18,16): warning C4305: inicializování: zkrácení z: int na: char
+C:\Users\Alex\Desktop\ZPRO\cv4\cv4\Program.cpp(18,11): warning C4309: inicializování: zkrácení konstantní hodnoty
+C:\Users\Alex\Desktop\ZPRO\cv4\cv4\Program.cpp(19,16): warning C4305: inicializování: zkrácení z: int na: char
+C:\Users\Alex\Desktop\ZPRO\cv4\cv4\Program.cpp(19,11): warning C4309: inicializování: zkrácení konstantní hodnoty
+  cv4.vcxproj -> C:\Users\Alex\Desktop\ZPRO\cv4\x64\Debug\cv4.exe

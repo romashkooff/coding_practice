@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\BubleSort\BubleSort\Program.cpp(33,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+  BubleSort.vcxproj -> C:\Users\Alex\Desktop\ZPRO\BubleSort\x64\Debug\BubleSort.exe

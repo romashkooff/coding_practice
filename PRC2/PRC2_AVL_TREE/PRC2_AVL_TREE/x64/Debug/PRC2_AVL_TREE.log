@@ -1,0 +1,6 @@
+﻿  Node.cpp
+C:\Users\romas\Desktop\Coding\University\C++\PRC2\PRC2_AVL_TREE\PRC2_AVL_TREE\Node.cpp(194,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\romas\Desktop\Coding\University\C++\PRC2\PRC2_AVL_TREE\PRC2_AVL_TREE\Node.cpp(197,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  PRC2_AVL_TREE.vcxproj -> C:\Users\romas\Desktop\Coding\University\C++\PRC2\PRC2_AVL_TREE\x64\Debug\PRC2_AVL_TREE.exe

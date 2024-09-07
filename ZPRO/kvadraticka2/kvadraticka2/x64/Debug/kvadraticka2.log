@@ -1,0 +1,7 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(37,31): error C2440: inicializování: nejde převést z: initializer list na: double.
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(37,23): message : Inicializátor obsahuje příliš moc elementů.
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(38,56): error C2664: Vysledek ResKvadratickouRovnici(double []): Nejde převést argument 1 z: double na: double [].
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(14,10): message : viz deklarace: ResKvadratickouRovnici
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(41,56): error C2146: Chyba syntaxe: Chybí ; před identifikátorem endl.
+C:\Users\Alex\Desktop\ZPRO\kvadraticka2\kvadraticka2\Program.cpp(41,56): warning C4551: ve volání funkce chybí seznam argumentů

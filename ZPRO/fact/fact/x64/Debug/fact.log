@@ -1,0 +1,8 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(19,10): warning C4566: Znak, který reprezentuje universal-character-name \u010D, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(19,10): warning C4566: Znak, který reprezentuje universal-character-name \u00ED, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(24,11): warning C4566: Znak, který reprezentuje universal-character-name \u00E1, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(28,11): warning C4566: Znak, který reprezentuje universal-character-name \u010C, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(28,11): warning C4566: Znak, který reprezentuje universal-character-name \u00ED, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+C:\Users\Alex\Desktop\ZPRO\fact\fact\Program.cpp(28,11): warning C4566: Znak, který reprezentuje universal-character-name \u00FD, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+  fact.vcxproj -> C:\Users\Alex\Desktop\ZPRO\fact\x64\Debug\fact.exe

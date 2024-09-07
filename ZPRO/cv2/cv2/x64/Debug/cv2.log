@@ -1,0 +1,4 @@
+﻿  cv2.cpp
+C:\Users\Alex\Desktop\ZPRO\cv2\cv2\cv2.cpp(5,25): warning C4305: inicializování: zkrácení z: double na: float
+C:\Users\Alex\Desktop\ZPRO\cv2\cv2\cv2.cpp(44,27): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+  cv2.vcxproj -> C:\Users\Alex\Desktop\ZPRO\cv2\x64\Debug\cv2.exe

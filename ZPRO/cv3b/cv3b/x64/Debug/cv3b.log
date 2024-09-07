@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\cv3b\cv3b\Program.cpp(56,9): warning C4244: return: double se převádí na int; může dojít ke ztrátě dat.
+  cv3b.vcxproj -> C:\Users\Alex\Desktop\ZPRO\cv3b\x64\Debug\cv3b.exe

@@ -1,0 +1,5 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\cv6_b\cv6_b\Program.cpp(27,12): error C2131: Výraz se nevyhodnotil jako konstanta.
+C:\Users\Alex\Desktop\ZPRO\cv6_b\cv6_b\Program.cpp(27,12): message : chybu způsobilo čtení proměnné mimo její životnost
+C:\Users\Alex\Desktop\ZPRO\cv6_b\cv6_b\Program.cpp(27,12): message : viz použití: n1
+C:\Users\Alex\Desktop\ZPRO\cv6_b\cv6_b\Program.cpp(30,9): error C3863: Typ pole double [n1] se nedá přiřadit.

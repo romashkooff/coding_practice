@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\Alex\Desktop\ZPRO\Větvění\Větvění\Program.cpp(15,11): warning C4566: Znak, který reprezentuje universal-character-name \u00E1, nemůže být reprezentovaný v aktuální znakové stránce (1251).
+  Větvění.vcxproj -> C:\Users\Alex\Desktop\ZPRO\Větvění\x64\Debug\Větvění.exe
